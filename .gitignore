@@ -1,0 +1,13 @@
+# .gitignore
+data/
+models/
+*.pt
+*.pth
+*.onnx
+*.tflite
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+mlruns/
+wandb/

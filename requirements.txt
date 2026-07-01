@@ -1,0 +1,15 @@
+torchvision
+torchaudio
+timm
+albumentations
+mlflow
+wandb
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pillow
+imagehash
+tqdm
